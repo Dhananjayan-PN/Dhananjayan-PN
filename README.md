@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Welcome to my GitHub page! Don't forget to check out my website [dhananjayan.tech](https://dhananjayan.tech) 😁
-- 🌱 I’m currently learning Neural Nets, Flutter, React, Django and other cool stuff
+- 🌱 I’m currently learning Neural Nets, Machine Learning, Flutter, React, Django and other cool stuff
 - 💼 I'm open for work and looking for internship opportunities in the software development industry
 - 🎓 I'm a student at the University of Wisconsin - Madison
 <!--
