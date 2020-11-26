@@ -1,6 +1,8 @@
 ## Hi there 👋
 ### Welcome to my GitHub page. Don't forget to check out my website www.dhananjayan.tech
 - 🌱 I’m currently learning Neural Nets, Flutter, React, Django and other cool stuff
+- 💼 I'm open for work and looking for internship opportunities in the software development industry
+- 🎓 I'm a student at the University of Wisconsin - Madison
 <!--
 **Dhananjayan-PN/Dhananjayan-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
