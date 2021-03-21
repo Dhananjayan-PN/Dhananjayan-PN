@@ -1,3 +1,5 @@
+<img src="https://github.com/Dhananjayan-PN/Dhananjayan-PN/blob/main/banner.png" alt="banner" width="100%">
+
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhananjayan-PN&label=Views&color=blue&style=plastic" alt="dhananjayan" /> </p>
 
