@@ -5,7 +5,7 @@
 
 
 ## 👨‍💻 I'm [Dhananjayan P N](https://dhananjayan.tech). Welcome to my GitHub page!
-- 🌱 I’m currently learning Neural Nets, Machine Learning, Flutter, React, Django and other cool stuff
+- 🌱 I’m currently learning Machine Learning, Flutter, React, Django and other cool stuff
 - 💼 I'm open for work and looking for internship opportunities in the software development industry
 - 🎓 I'm a student at the University of Wisconsin - Madison
 
