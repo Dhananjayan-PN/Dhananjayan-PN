@@ -1,19 +1,12 @@
-## Hi there 👋
-### Welcome to my GitHub page! Don't forget to check out my website [dhananjayan.tech](https://dhananjayan.tech) 😁
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhananjayan-PN&label=Views&color=blue&style=plastic" alt="dhananjayan" /> </p>
+
+
+### I'm [Dhananjayan P N](https://dhananjayan.tech). Welcome to my GitHub page!
 - 🌱 I’m currently learning Neural Nets, Machine Learning, Flutter, React, Django and other cool stuff
 - 💼 I'm open for work and looking for internship opportunities in the software development industry
 - 🎓 I'm a student at the University of Wisconsin - Madison
-<!--
-**Dhananjayan-PN/Dhananjayan-PN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 My GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhananjayan-PN&show_icons=true&theme=algolia" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
