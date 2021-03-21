@@ -3,7 +3,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhananjayan-PN&label=Views&color=blue&style=plastic" alt="dhananjayan" /> </p>
 
-
 <a href="mailto:pndjay@gmail.com"><img src="gmail.svg" width="25px" /></a>
 <a href="https://linkedin.com/in/dhananjayanpn"><img src="linkedin.svg" width="25px" /></a>
 <a href="https://www.instagram.com/djay_aux"><img src="instagram.svg" width="25px" /></a>
