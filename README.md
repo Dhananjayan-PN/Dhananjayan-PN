@@ -3,10 +3,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhananjayan-PN&label=Views&color=blue&style=plastic" alt="dhananjayan" /> </p>
 
-[![LinkedIn](linkedin.svg)](https://linkedin.com/in/dhananjayanpn)
-[![Instagram](instagram.svg)](https://www.instagram.com/djay_aux)
-[![Twitter](twitter.svg)](https://twitter.com/Djay4117)
-[![Facebook](facebook.svg)](https://www.facebook.com/profile.php?id=100008400100141)
+
+<a href="mailto:pndjay@gmail.com"><img src="gmail.svg" width="25px" /></a>
+<a href="https://linkedin.com/in/dhananjayanpn"><img src="linkedin.svg" width="25px" /></a>
+<a href="https://www.instagram.com/djay_aux"><img src="instagram.svg" width="25px" /></a>
+<a href="https://twitter.com/Djay4117"><img src="twitter.svg" width="25px" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008400100141"><img src="facebook.svg" width="25px" /></a>
 
 ## 👨‍💻 I'm [Dhananjayan P N](https://dhananjayan.tech). Welcome to my GitHub page!
 - 🌱 I’m currently learning Machine Learning, Flutter, React, Django and other cool stuff
