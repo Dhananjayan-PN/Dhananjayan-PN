@@ -27,4 +27,5 @@
 
 ## 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhananjayan-PN&show_icons=true&theme=algolia" />
+[![Djay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhananjayan-PN)](https://github.com/anuraghazra/github-readme-stats)
 
