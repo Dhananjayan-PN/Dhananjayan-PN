@@ -5,26 +5,13 @@
 
 <a href="mailto:pndjay@gmail.com"><img src="gmail.svg" width="25px" /></a>
 <a href="https://linkedin.com/in/dhananjayanpn"><img src="linkedin.svg" width="25px" /></a>
-<a href="https://www.instagram.com/djay_aux"><img src="instagram.svg" width="25px" /></a>
-<a href="https://twitter.com/Djay4117"><img src="twitter.svg" width="25px" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008400100141"><img src="facebook.svg" width="25px" /></a>
 
-## 👨‍💻 I'm [Dhananjayan P N](https://dhananjayan.tech). Welcome to my GitHub page!
-- 🌱 I’m currently learning Machine Learning, Flutter, React, Django and other cool stuff
-- 💼 I'm open for work and looking for internship opportunities in the software development industry
-- 🎓 I'm a student at the University of Wisconsin - Madison
-
-## 🛠️ Tools & Technologies
-<code><a href="https://reactjs.org"><img src="https://github.com/Dhananjayan-PN/Dhananjayan-PN/blob/main/react.png" width="70px" /></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="65px" /></a></code>
-<code><a href="https://www.typescriptlang.org/"><img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" width="64px" /></a></code>
-<code><a href="https://nodejs.org/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="60px" /></a></code>
-<code><a href="https://dart.dev/"><img src="https://hackr.io/tutorials/learn-dart/logo/logo-dart?ver=1557984354" width="65px" /></a></code>
-<code><a href="https://flutter.dev/"><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50px" /></a></code>
-<code><a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="65px" /></a></code>
-<code><a href="https://www.djangoproject.com/"><img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" width="65px" /></a></code>
-<code><a href="https://www.oracle.com/in/java/"><img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="55px" /></a></code>
+## 👨‍💻 I'm [Djay](https://dhananjayan.tech). Welcome to my GitHub page!
+- 🌱 I’m currently learning Machine Learning, AI, LLMs and other powerful software
+- 💼 I'm a software engineer at Amazon working on scaling software and AI systems
+- 🎓 I'm pursuing a Masters in AI at Georgia Tech part time
+- 🕵️‍♂️ I'm looking for opportunities to explore my passion for AI and Software through impactful Open Source contributions
 
 ## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dhananjayan-PN&show_icons=true&theme=algolia" />
+<p align="center"> <img src="https://gh-readme-profile.vercel.app/api?username=Dhananjayan-PN&theme=transparent" />
 
